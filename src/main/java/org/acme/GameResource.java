@@ -16,6 +16,7 @@ import java.util.logging.Logger;
 @Consumes("application/json")
 public class GameResource {
 
+
     @Inject
     GameRepository gameRepository;
 
